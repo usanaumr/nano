@@ -1,4 +1,5 @@
-import { ChemicalBuild } from "chemicaljs";
+pnpm install
+    import { ChemicalBuild } from "chemicaljs";
 
 const build = new ChemicalBuild({
     scramjet: false,
